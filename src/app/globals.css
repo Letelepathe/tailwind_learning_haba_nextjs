@@ -18,6 +18,11 @@
     --foreground: #ededed;
   }
 }
+@utility habaStyle{
+  .habaColor{
+    Hcolor:#12b23a
+  }
+}
 
 body {
   background: var(--background);
